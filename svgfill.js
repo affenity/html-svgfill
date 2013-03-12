@@ -1,4 +1,5 @@
-/*! svgfill - chooses between svg and png/jpg images with svg support info from Modernizr. Load Modernizr before this file. Author: Ramkishore Manoharan 
+/*! svgfill - chooses between svg and png/jpg images with svg support info from Modernizr. Load Modernizr before this file. 
+Author: Ramkishore Manoharan 
 usage example:
     <div data-svgfill data-svg="images/common/image1.svg(can be inline <svg></svg> element too)" data-bmp="images/common/image1.png" data-alt="image1-alt">
         <noscript>
